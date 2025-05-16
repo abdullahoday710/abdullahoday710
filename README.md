@@ -15,7 +15,7 @@ Passionate and results-driven backend developer with experience in designing, de
 | **Databases**          | PostgreSQL, MySQL, MongoDB                          |
 | **DevOps / CI/CD**     | Docker, Kubernetes, GitHub Actions   |
 | **Version Control**    | Git, GitHub, GitLab, Bitbucket                             |
-| **Other Tools**        | Nginx, RabbitMQ, Kafka                      |
+| **Other Tools**        | Nginx, RabbitMQ                      |
 
 ---
 
