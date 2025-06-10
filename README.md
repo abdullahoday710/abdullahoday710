@@ -11,11 +11,11 @@ Passionate and results-driven backend developer with experience in designing, de
 | Category               | Tools / Technologies                                       |
 |------------------------|------------------------------------------------------------|
 | **Languages**          | Python, Java, C#, JavaScript and typescript (Node.js), c++         |
-| **Web Frameworks**     | Django, Flask, Express.js, ASP.NET Core, odoo customization      |
+| **Web Frameworks**     | ASP.NET Core, Django, Flask, Express.js, odoo customization      |
 | **Databases**          | PostgreSQL, MySQL, MongoDB                          |
 | **DevOps / CI/CD**     | Docker, Kubernetes, GitHub Actions   |
 | **Version Control**    | Git, GitHub, GitLab, Bitbucket                             |
-| **Other Tools**        | Nginx, RabbitMQ                      |
+| **Other Tools**        | Nginx, RabbitMQ, Kafka                      |
 
 ---
 
