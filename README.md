@@ -1,7 +1,7 @@
 # Backend Software Developer
 
 Passionate and results-driven backend developer with experience in designing, developing, and maintaining scalable and efficient server-side applications. Strong foundation in computer science principles, RESTful API design, database management, and cloud infrastructure.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahoday710&layout=compact)
+![abdullahoday710's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahoday710&show_icons=true)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahoday710)](https://git.io/streak-stats)
