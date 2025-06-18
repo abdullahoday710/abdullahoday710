@@ -66,7 +66,7 @@ Passionate and results-driven backend developer with experience in designing, de
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-
+## Work experience
 
 ### SaaS Startup (NDA) – Backend Developer  
 *06/2024 – Present*  
