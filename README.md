@@ -2,21 +2,70 @@
 
 Passionate and results-driven backend developer with experience in designing, developing, and maintaining scalable and efficient server-side applications. Strong foundation in computer science principles, RESTful API design, database management, and cloud infrastructure.
 
+### 💻 Languages & Technologies
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahoday710)](https://git.io/streak-stats)
+#### 🌐 Web Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
 
-## 🛠️ Skills & Technologies
+#### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</p>
 
-| Category               | Tools / Technologies                                       |
-|------------------------|------------------------------------------------------------|
-| **Languages**          | Python, Java, C#, JavaScript and typescript (Node.js), c++         |
-| **Web Frameworks**     | ASP.NET Core, Django, Flask, Express.js, odoo customization      |
-| **Databases**          | PostgreSQL, MySQL, MongoDB                          |
-| **DevOps / CI/CD**     | Docker, Kubernetes, GitHub Actions   |
-| **Version Control**    | Git, GitHub, GitLab, Bitbucket                             |
-| **Other Tools**        | Nginx, RabbitMQ, Kafka                      |
+#### 🗃️ Databases & Message Brokers
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+</p>
 
----
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
+</p>
+
+#### 🧪 Tools & Others
+<p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
+</p>
+
+#### 🎮 Game Dev
+<p>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+</p>
+
+#### Design
+<p>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+
 
 
 ### SaaS Startup (NDA) – Backend Developer  
@@ -37,6 +86,9 @@ Passionate and results-driven backend developer with experience in designing, de
 - Successfully ported the networking stack, which utilized an obscure implementation of the RDP-UDP protocol.
 - Also ported key game systems, including the inventory system, quest system, building system, and combat system.
 - The project was challenging but ultimately successful.
+
+💡 Fun Fact: I learned how to code before I learned how to drive.
+That tells you everything about my priorities.
 
 ## 📈 Personal projects
 
