@@ -113,3 +113,7 @@ Here are some pictures of the engine world editor and also a prototype game I'm 
 
 **The UI system for the engine:**
 ![UI](https://i.imgur.com/M8jSrYz.png)
+
+
+**Fog of war system I made for my RTS game:**
+![FOG](https://i.imgur.com/SHDagzG.png)
